@@ -1,0 +1,19 @@
+{
+    "name": "fgh151/cacher",
+    "description": "Cache system",
+    "homepage": "http://openitstudio.ru",
+    "type": "Library",
+    "license": "GPL v3",
+    "authors": [
+        {
+            "name": "Fedor B Gorsky",
+            "email": "fedor@support-pc.org"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "fgh151\\cacher\\": ""
+        }
+    }
+}
